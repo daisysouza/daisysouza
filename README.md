@@ -1,5 +1,6 @@
 ### Olá, eu sou Daisy! 👩‍💻
-Sou apaixonada por tecnologia. Criar soluções demanda boas pesquisas!
+### Bem-vindo(a)! 👋
+Sou apaixonada por tecnologia. Criar soluções demanda boas pesquisas! Busco desenvolver minhas habilidades para poder participar de projetos que sejam significativos em geração de conhecimento e bem estar. Pretendo apoiar todos que se interessem pela área de tecnologia!
  
 ---
 
